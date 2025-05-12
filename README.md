@@ -1,7 +1,8 @@
 Project Overview
 
 "https://app.powerbi.com/groups/71e940b3-604d-45d2-ad06-a31ae12f7704/reports/fa500769-805f-4828-af03-e1b80a7fc8e5/109713cdcdf365b45164?experience=power-bi" 
-https://github.com/ChimaOkeke/Adventure-works-project-Chima-/tree/main is an immersive Power BI project that transforms the rich and multidimensional dataset from the AdventureWorks DW2020 data warehouse into actionable business intelligence. The project delivers a strategic overview of the company’s performance, focusing on critical areas such as sales trends, product performance, and customer segmentation.
+https://github.com/ChimaOkeke/Adventure-works-project-Chima-/tree/main 
+AdventureWorks DW2020 Analysis" is an immersive Power BI project that transforms the rich and multidimensional dataset from the AdventureWorks DW2020 data warehouse into actionable business intelligence. The project delivers a strategic overview of the company’s performance, focusing on critical areas such as sales trends, product performance, and customer segmentation.
 
 Key Features:
 Sales Performance Dashboard:
