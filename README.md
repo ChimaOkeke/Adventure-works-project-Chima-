@@ -29,3 +29,5 @@ Strategic Optimization: Supports ongoing performance evaluation and business pro
 
 Conclusion:
 "AdventureWorks DW2020 Analysis" is more than just a report—it’s a strategic visualization tool that converts data complexity into clarity. It empowers teams to uncover insights, track KPIs, and make informed decisions that fuel business growth and operational excellence.
+
+![Screenshot 2025-05-11 204109 - Copy (2)](https://github.com/user-attachments/assets/b9cf246e-655d-489b-b40b-5a387ab5d067)
